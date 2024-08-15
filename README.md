@@ -1,4 +1,4 @@
-# Stress-App-Android-
+# Ukuthula app
 
 I was tasked with creating an android application to be used by a student completing her Masters in Psychology(the client). The app would form part of her final task for the year
 
